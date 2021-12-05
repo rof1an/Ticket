@@ -42,7 +42,7 @@ color: #fff;
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 20px;
 	width: 100%;
-	 max-width: 585px;
+	max-width: 585px;
 }
 .title span{
 	font-size: 60px;
@@ -175,7 +175,10 @@ background-color: #164d7a;
 	text-align: center;
 }
 .section__wait{
-	margin-left: 200px;
+	margin: 0 auto;
+}
+.title{
+	margin: 0 auto;
 }
 .section__wait:not(:first-child){
 	padding-top: 0px;
@@ -204,8 +207,8 @@ max-width: 540px;
 	}
 	.btn__form{
 		display: block;
-		max-width: 100%;
-		width: 300px;
+		max-width: 400px;
+		width: 100%;
 	}
 	.title{
 		font-size: 10px;
