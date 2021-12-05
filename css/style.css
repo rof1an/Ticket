@@ -41,7 +41,8 @@ color: #fff;
 .title{
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 20px;
-	width: 585px;
+	width: 100%;
+	 max-width: 585px;
 }
 .title span{
 	font-size: 60px;
@@ -184,12 +185,6 @@ background-color: #164d7a;
 	.container{
 width: 100%;
 max-width: 540px;
-	}
-	.wrapper{
-		padding-right: 80px;
-	}
-	.header{
-		padding-left: 60px;
 	}
 .section__wait{
 	margin: 0 auto;
