@@ -1,1 +1,1 @@
-https://roflanchik.github.io/Ticket/
+https://roflan.github.io/Ticket/
